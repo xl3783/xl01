@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+所有的api使用post类型
+不需要暴露基础的查询接口,后续会统一使用graphql
